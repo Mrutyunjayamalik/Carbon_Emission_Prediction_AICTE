@@ -16,5 +16,5 @@ File Name	Description
 
 55e3c34d8c2c20110434.xls	Raw dataset used for analysis.
 data_cleaned.xls	Cleaned and preprocessed dataset ready for model training.
-carbon_emission_prediction.ipynb	Jupyter Notebook containing the code for data exploration, visualization, model building, and prediction.
+1_data_preparation.ipynb,2_data_exploration	Jupyter Notebook containing the code for data exploration, visualization, model building, and prediction.
 README.md	Project overview and description.
